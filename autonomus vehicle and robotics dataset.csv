@@ -1,0 +1,161 @@
+Sensor Temp (°C) ,Response Time (s) ,Scenario ,Vehicle Mood 
+31.56,0.89,Clear Path ,Balanced 
+24.53,0.78,Pedestrian Nearby ,Balanced 
+20.4,0.44,Obstacle Detected ,Aggressive 
+20.64,0.54,Object Moving ,Defensive 
+21.82,0.52,Busy Junction ,Defensive 
+27.71,0.54,Stop Sign ,Defensive 
+29.71,0.65,Stop Sign ,Balanced 
+28.34,0.68,Emergency Stop ,Defensive 
+34.44,0.42,Manual Override ,Aggressive 
+22.24,0.67,Traffic Signal ,Defensive 
+30.02,0.41,Slow Vehicle Ahead ,Balanced 
+28.1,0.7,Path Cleared ,Aggressive 
+18.9,0.99,School Zone ,Aggressive 
+18.88,0.65,Clear Path ,Aggressive 
+34.03,0.54,Crosswalk ,Aggressive 
+30.53,0.51,Yield Sign ,Defensive 
+22.5,0.94,Traffic Signal ,Defensive 
+21.14,0.83,School Zone ,Balanced 
+25.69,0.82,Lane Shift ,Defensive 
+20.81,0.63,Crosswalk ,Defensive 
+27.18,0.7,Yield Sign ,Defensive 
+29.62,0.68,School Zone ,Defensive 
+35.57,0.44,Emergency Stop ,Defensive 
+29.27,0.63,Lane Shift ,Defensive 
+21.8,0.53,Yield Sign ,Balanced 
+21.11,1,Slow Vehicle Ahead ,Balanced 
+27.13,0.99,Route Recalc ,Defensive 
+31.65,0.63,Yield Sign ,Balanced 
+27.57,0.99,Emergency Stop ,Defensive 
+27.44,0.63,Path Cleared ,Defensive 
+28.09,0.7,Manual Override ,Aggressive 
+25.98,0.92,Obstacle Detected ,Balanced 
+32.28,0.96,Obstacle Detected ,Balanced 
+29.98,0.78,Emergency Stop ,Defensive 
+34.3,0.69,Slow Vehicle Ahead ,Balanced 
+30.64,0.81,Stop Sign ,Balanced 
+19.51,0.77,Lane Shift ,Defensive 
+32.26,0.84,Obstacle Detected ,Defensive 
+32.21,0.98,Path Cleared ,Defensive 
+26.65,0.96,Pedestrian Nearby ,Defensive 
+21.77,0.95,Signal Lost ,Defensive 
+34.51,0.89,Object Moving ,Aggressive 
+23.54,0.75,Stop Sign ,Balanced 
+22.45,0.81,Crosswalk ,Aggressive 
+22.09,0.46,Clear Path ,Balanced 
+33.21,0.6,Pedestrian Nearby ,Balanced 
+32.97,0.8,Signal Lost ,Aggressive 
+34.05,0.64,Traffic Signal ,Aggressive 
+25.04,0.91,Slow Vehicle Ahead ,Aggressive 
+32.2,0.86,Signal Lost ,Balanced 
+18.63,0.55,Object Moving ,Balanced 
+35.73,0.78,Busy Junction ,Aggressive 
+20.05,0.7,School Zone ,Balanced 
+27.45,1,Slow Vehicle Ahead ,Aggressive 
+24.86,0.57,Clear Path ,Aggressive 
+26.08,1,Lane Shift ,Aggressive 
+33.37,0.79,Sharp Turn ,Balanced 
+23.75,0.83,Stop Sign ,Defensive 
+18.69,0.61,Stop Sign ,Defensive 
+18.15,0.98,Clear Path ,Balanced 
+24.62,0.92,Pedestrian Nearby ,Balanced 
+35.17,0.6,Sharp Turn ,Aggressive 
+25.89,0.53,Lane Shift ,Aggressive 
+31.33,0.49,Busy Junction ,Defensive 
+29.52,0.63,Clear Path ,Defensive 
+35.02,0.86,Traffic Signal ,Balanced 
+32.26,0.5,Clear Path ,Defensive 
+35.96,0.83,Yield Sign ,Defensive 
+18.53,0.44,Busy Junction ,Defensive 
+29.56,0.68,Clear Path ,Defensive 
+26.03,0.6,Slow Vehicle Ahead ,Aggressive 
+33.92,0.67,Crosswalk ,Balanced 
+19.64,0.91,Slow Vehicle Ahead ,Aggressive 
+19.39,0.43,Route Recalc ,Aggressive 
+30.81,0.96,Signal Lost ,Aggressive 
+34.27,0.97,Object Moving ,Aggressive 
+22.83,0.63,School Zone ,Aggressive 
+23.6,0.87,Route Recalc ,Aggressive 
+30.81,0.48,Clear Path ,Balanced 
+31.69,0.92,Crosswalk ,Aggressive 
+35.8,0.78,Signal Lost ,Aggressive 
+30.45,0.83,Object Moving ,Defensive 
+30.2,0.75,Stop Sign ,Defensive 
+35.55,0.45,Busy Junction ,Defensive 
+27.78,0.9,Crosswalk ,Balanced 
+26.48,0.44,Clear Path ,Defensive 
+33.97,0.51,Route Recalc ,Aggressive 
+21.42,0.59,Clear Path ,Defensive 
+30.47,0.66,Yield Sign ,Aggressive 
+32.64,0.52,Lane Shift ,Defensive 
+18.55,0.57,Crosswalk ,Defensive 
+22.81,0.42,Object Moving ,Aggressive 
+18.11,0.82,Lane Shift ,Aggressive 
+32.05,0.45,Path Cleared ,Defensive 
+31.5,0.57,Obstacle Detected ,Aggressive 
+21.5,0.67,School Zone ,Balanced 
+18.14,0.47,Signal Lost ,Balanced 
+27.62,0.62,Busy Junction ,Aggressive 
+27.98,0.76,Emergency Stop ,Balanced 
+25.96,0.67,Pedestrian Nearby ,Defensive 
+24.41,0.62,Object Moving ,Defensive 
+21.07,0.91,Manual Override ,Aggressive 
+26.78,0.59,Obstacle Detected ,Balanced 
+19.99,0.73,Emergency Stop ,Balanced 
+33.52,0.99,Obstacle Detected ,Balanced 
+22.8,0.41,Manual Override ,Balanced 
+25.89,0.77,Busy Junction ,Balanced 
+24.42,0.78,Yield Sign ,Aggressive 
+24.78,0.91,Clear Path ,Balanced 
+28.27,0.91,Traffic Signal ,Aggressive 
+33.71,0.55,Lane Shift ,Balanced 
+31.86,0.95,Object Moving ,Balanced 
+19.84,0.66,Path Cleared ,Defensive 
+18.43,0.91,Obstacle Detected ,Aggressive 
+26.73,0.55,Pedestrian Nearby ,Defensive 
+29.75,0.57,Manual Override ,Defensive 
+32.67,0.52,Yield Sign ,Aggressive 
+33.31,0.77,Busy Junction ,Defensive 
+34.21,0.78,Busy Junction ,Defensive 
+35.56,0.51,Stop Sign ,Aggressive 
+18.97,0.83,Crosswalk ,Defensive 
+22.44,0.95,Clear Path ,Aggressive 
+18.82,0.53,Stop Sign ,Defensive 
+32.64,0.52,School Zone ,Defensive 
+28.69,0.71,School Zone ,Aggressive 
+20.03,0.54,Manual Override ,Defensive 
+23.56,1,Busy Junction ,Balanced 
+18.3,0.98,Emergency Stop ,Aggressive 
+34.16,0.45,School Zone ,Balanced 
+21.88,0.48,Obstacle Detected ,Defensive 
+21.71,0.91,Obstacle Detected ,Aggressive 
+26.81,0.55,Stop Sign ,Aggressive 
+35.45,0.61,Crosswalk ,Balanced 
+19.24,0.49,Object Moving ,Balanced 
+28.3,0.47,Crosswalk ,Balanced 
+30.21,0.76,Slow Vehicle Ahead ,Aggressive 
+31.3,0.9,Pedestrian Nearby ,Defensive 
+32.34,0.53,Route Recalc ,Defensive 
+21.2,0.94,Path Cleared ,Aggressive 
+29.22,0.89,Obstacle Detected ,Balanced 
+22.61,0.49,Signal Lost ,Defensive 
+18.59,0.63,Obstacle Detected ,Aggressive 
+22.86,0.56,Crosswalk ,Balanced 
+31.38,0.46,Lane Shift ,Defensive 
+26.66,0.75,Yield Sign ,Aggressive 
+21.23,0.92,Sharp Turn ,Balanced 
+20.55,0.44,Signal Lost ,Aggressive 
+30.1,0.58,Stop Sign ,Defensive 
+31.75,0.66,Emergency Stop ,Defensive 
+23.73,0.54,Crosswalk ,Aggressive 
+35.73,0.83,Stop Sign ,Balanced 
+22.38,0.96,Slow Vehicle Ahead ,Aggressive 
+18.7,0.79,Path Cleared ,Balanced 
+35.95,0.86,School Zone ,Defensive 
+32.73,0.68,Path Cleared ,Aggressive 
+23.36,0.75,School Zone ,Defensive 
+30.74,0.65,Emergency Stop ,Defensive 
+23.22,0.86,Manual Override ,Aggressive 
+27.13,0.75,Path Cleared ,Balanced 
+33.23,0.43,Clear Path ,Aggressive 
